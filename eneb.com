@@ -1,0 +1,9 @@
+academy@eneb.com
+hr@eneb.com
+jose.novoag@eneb.com
+management@eneb.com
+coordination@eneb.com
+nhutch@eneb.com
+alago@eneb.com
+balagsddfdhr@eneb.com
+enen.rbrb@eneb.com
