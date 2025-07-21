@@ -1,0 +1,13 @@
+ember-inspector@emberjs.com
+tomster@emberjs.com
+leah@emberjs.com
+help@emberjs.com
+roadmap@emberjs.com
+meetups@emberjs.com
+rolanda@emberjs.com
+marybeth@emberjs.com
+se-leah@emberjs.com
+se-rolanda@emberjs.com
+se-marybeth@emberjs.com
+fbasefield@emberjs.com
+ombudsman@emberjs.com
